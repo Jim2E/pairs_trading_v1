@@ -30,5 +30,5 @@
   <img src = 'https://github.com/Jim2E/pairs_trading_v1/blob/main/plots_ouput/Open_Closes_of_AAVEUSD_Trades.png' width = "580">
 </p>
 <p align="center">
-  <img src = 'https://github.com/Jim2E/pairs_trading_v1/blob/main/plots_ouput/collateral_over_time.png' width = "580">
+  <img src = 'https://github.com/Jim2E/pairs_trading_v1/blob/main/plots_ouput/PNL_of_each_trade.png' width = "580">
 </p>
