@@ -1,1 +1,1 @@
-# pairs_trading_v1
+# Pairs_Trading_v1 Algorithm
