@@ -1,4 +1,4 @@
-# Pairs_Trading_v1 Algorithm
+# Pairs Trading v1 Algorithm
 
 ### Overview
 
